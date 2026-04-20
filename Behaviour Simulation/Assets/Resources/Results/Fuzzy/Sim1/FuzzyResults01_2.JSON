@@ -1,0 +1,130 @@
+{
+    "fightCount": 4,
+    "flightCount": 1,
+    "freezeCount": 5,
+    "performance_ms": 0.058126800000000058,
+    "minMs": 0.0,
+    "maxMs": 1.9802000000000002,
+    "data": [
+        {
+            "id": 0,
+            "state": "FIGHT",
+            "bravery": 4,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 6,
+            "awareness": 0.009999999776482582,
+            "fightValue": 0.47749999165534975,
+            "flightValue": 0.22749999165534974,
+            "freezeValue": 0.3529999852180481
+        },
+        {
+            "id": 1,
+            "state": "FREEZE",
+            "bravery": 6,
+            "distress": 2,
+            "fear": 9,
+            "anxiety": 3,
+            "awareness": 0.009999999776482582,
+            "fightValue": 0.22750000655651093,
+            "flightValue": 0.2775000035762787,
+            "freezeValue": 0.30150002241134646
+        },
+        {
+            "id": 2,
+            "state": "FREEZE",
+            "bravery": 2,
+            "distress": 1,
+            "fear": 4,
+            "anxiety": 6,
+            "awareness": 0.4704340994358063,
+            "fightValue": 0.3426085114479065,
+            "flightValue": 0.24260853230953217,
+            "freezeValue": 0.591130256652832
+        },
+        {
+            "id": 3,
+            "state": "FREEZE",
+            "bravery": 8,
+            "distress": 3,
+            "fear": 8,
+            "anxiety": 8,
+            "awareness": 0.7699874043464661,
+            "fightValue": 0.4674968719482422,
+            "flightValue": 0.5174968242645264,
+            "freezeValue": 0.5579949617385864
+        },
+        {
+            "id": 4,
+            "state": "FREEZE",
+            "bravery": 1,
+            "distress": 8,
+            "fear": 4,
+            "anxiety": 1,
+            "awareness": 0.009999999776482582,
+            "fightValue": 0.3774999976158142,
+            "flightValue": 0.30250000953674319,
+            "freezeValue": 0.4505000114440918
+        },
+        {
+            "id": 5,
+            "state": "FREEZE",
+            "bravery": 5,
+            "distress": 1,
+            "fear": 5,
+            "anxiety": 5,
+            "awareness": 0.35174673795700076,
+            "fightValue": 0.36293667554855349,
+            "flightValue": 0.23793669044971467,
+            "freezeValue": 0.5879366993904114
+        },
+        {
+            "id": 6,
+            "state": "FLIGHT",
+            "bravery": 7,
+            "distress": 7,
+            "fear": 9,
+            "anxiety": 5,
+            "awareness": 0.4826095700263977,
+            "fightValue": 0.49565237760543826,
+            "flightValue": 0.5206524133682251,
+            "freezeValue": 0.4206523895263672
+        },
+        {
+            "id": 7,
+            "state": "FIGHT",
+            "bravery": 5,
+            "distress": 3,
+            "fear": 1,
+            "anxiety": 6,
+            "awareness": 0.5333646535873413,
+            "fightValue": 0.5583411455154419,
+            "flightValue": 0.23334117233753205,
+            "freezeValue": 0.4600093960762024
+        },
+        {
+            "id": 8,
+            "state": "FIGHT",
+            "bravery": 1,
+            "distress": 2,
+            "fear": 2,
+            "anxiety": 2,
+            "awareness": 0.6486918330192566,
+            "fightValue": 0.43717294931411745,
+            "flightValue": 0.26217296719551089,
+            "freezeValue": 0.41486918926239016
+        },
+        {
+            "id": 9,
+            "state": "FIGHT",
+            "bravery": 7,
+            "distress": 7,
+            "fear": 4,
+            "anxiety": 5,
+            "awareness": 0.20047998428344727,
+            "fightValue": 0.5501199960708618,
+            "flightValue": 0.3251200020313263,
+            "freezeValue": 0.5001199841499329
+        }
+    ]
+}

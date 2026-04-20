@@ -1,0 +1,1304 @@
+{
+    "npc": [
+        {
+            "id": 0,
+            "bravery": 8,
+            "distress": 2,
+            "fear": 3,
+            "anxiety": 7,
+            "seat": 89,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 1,
+            "bravery": 8,
+            "distress": 5,
+            "fear": 5,
+            "anxiety": 4,
+            "seat": 6,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 2,
+            "bravery": 4,
+            "distress": 8,
+            "fear": 9,
+            "anxiety": 1,
+            "seat": 20,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 3,
+            "bravery": 6,
+            "distress": 3,
+            "fear": 7,
+            "anxiety": 6,
+            "seat": 82,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 4,
+            "bravery": 2,
+            "distress": 4,
+            "fear": 6,
+            "anxiety": 3,
+            "seat": 67,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 5,
+            "bravery": 9,
+            "distress": 8,
+            "fear": 8,
+            "anxiety": 2,
+            "seat": 96,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 6,
+            "bravery": 3,
+            "distress": 1,
+            "fear": 9,
+            "anxiety": 7,
+            "seat": 52,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 7,
+            "bravery": 6,
+            "distress": 7,
+            "fear": 5,
+            "anxiety": 1,
+            "seat": 83,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 8,
+            "bravery": 1,
+            "distress": 6,
+            "fear": 1,
+            "anxiety": 1,
+            "seat": 57,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 9,
+            "bravery": 9,
+            "distress": 6,
+            "fear": 6,
+            "anxiety": 1,
+            "seat": 97,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 10,
+            "bravery": 3,
+            "distress": 5,
+            "fear": 7,
+            "anxiety": 3,
+            "seat": 65,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 11,
+            "bravery": 4,
+            "distress": 3,
+            "fear": 6,
+            "anxiety": 1,
+            "seat": 21,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 12,
+            "bravery": 1,
+            "distress": 4,
+            "fear": 6,
+            "anxiety": 8,
+            "seat": 69,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 13,
+            "bravery": 2,
+            "distress": 6,
+            "fear": 5,
+            "anxiety": 3,
+            "seat": 26,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 14,
+            "bravery": 8,
+            "distress": 7,
+            "fear": 7,
+            "anxiety": 4,
+            "seat": 23,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 15,
+            "bravery": 8,
+            "distress": 7,
+            "fear": 8,
+            "anxiety": 5,
+            "seat": 66,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 16,
+            "bravery": 4,
+            "distress": 3,
+            "fear": 3,
+            "anxiety": 8,
+            "seat": 40,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 17,
+            "bravery": 9,
+            "distress": 1,
+            "fear": 8,
+            "anxiety": 6,
+            "seat": 53,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 18,
+            "bravery": 2,
+            "distress": 1,
+            "fear": 5,
+            "anxiety": 2,
+            "seat": 95,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 19,
+            "bravery": 2,
+            "distress": 6,
+            "fear": 9,
+            "anxiety": 6,
+            "seat": 38,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 20,
+            "bravery": 8,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 2,
+            "seat": 77,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 21,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 4,
+            "seat": 55,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 22,
+            "bravery": 3,
+            "distress": 4,
+            "fear": 4,
+            "anxiety": 6,
+            "seat": 3,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 23,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 3,
+            "seat": 8,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 24,
+            "bravery": 9,
+            "distress": 6,
+            "fear": 7,
+            "anxiety": 2,
+            "seat": 92,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 25,
+            "bravery": 1,
+            "distress": 9,
+            "fear": 6,
+            "anxiety": 3,
+            "seat": 51,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 26,
+            "bravery": 8,
+            "distress": 4,
+            "fear": 6,
+            "anxiety": 6,
+            "seat": 70,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 27,
+            "bravery": 9,
+            "distress": 4,
+            "fear": 1,
+            "anxiety": 2,
+            "seat": 49,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 28,
+            "bravery": 4,
+            "distress": 1,
+            "fear": 9,
+            "anxiety": 7,
+            "seat": 0,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 29,
+            "bravery": 6,
+            "distress": 7,
+            "fear": 6,
+            "anxiety": 8,
+            "seat": 68,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 30,
+            "bravery": 8,
+            "distress": 7,
+            "fear": 1,
+            "anxiety": 4,
+            "seat": 46,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 31,
+            "bravery": 4,
+            "distress": 1,
+            "fear": 2,
+            "anxiety": 8,
+            "seat": 45,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 32,
+            "bravery": 7,
+            "distress": 6,
+            "fear": 1,
+            "anxiety": 8,
+            "seat": 39,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 33,
+            "bravery": 3,
+            "distress": 3,
+            "fear": 4,
+            "anxiety": 2,
+            "seat": 12,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 34,
+            "bravery": 9,
+            "distress": 3,
+            "fear": 4,
+            "anxiety": 2,
+            "seat": 35,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 35,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 9,
+            "anxiety": 5,
+            "seat": 27,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 36,
+            "bravery": 2,
+            "distress": 7,
+            "fear": 4,
+            "anxiety": 8,
+            "seat": 84,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 37,
+            "bravery": 3,
+            "distress": 3,
+            "fear": 8,
+            "anxiety": 6,
+            "seat": 88,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 38,
+            "bravery": 6,
+            "distress": 8,
+            "fear": 1,
+            "anxiety": 8,
+            "seat": 90,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 39,
+            "bravery": 8,
+            "distress": 3,
+            "fear": 5,
+            "anxiety": 4,
+            "seat": 85,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 40,
+            "bravery": 8,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 9,
+            "seat": 15,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 41,
+            "bravery": 3,
+            "distress": 3,
+            "fear": 6,
+            "anxiety": 1,
+            "seat": 62,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 42,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 1,
+            "anxiety": 8,
+            "seat": 50,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 43,
+            "bravery": 7,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 4,
+            "seat": 1,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 44,
+            "bravery": 2,
+            "distress": 9,
+            "fear": 7,
+            "anxiety": 6,
+            "seat": 30,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 45,
+            "bravery": 2,
+            "distress": 4,
+            "fear": 1,
+            "anxiety": 5,
+            "seat": 71,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 46,
+            "bravery": 8,
+            "distress": 3,
+            "fear": 4,
+            "anxiety": 1,
+            "seat": 41,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 47,
+            "bravery": 6,
+            "distress": 9,
+            "fear": 6,
+            "anxiety": 5,
+            "seat": 37,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 48,
+            "bravery": 3,
+            "distress": 8,
+            "fear": 8,
+            "anxiety": 6,
+            "seat": 93,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 49,
+            "bravery": 6,
+            "distress": 3,
+            "fear": 8,
+            "anxiety": 4,
+            "seat": 76,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 50,
+            "bravery": 2,
+            "distress": 4,
+            "fear": 6,
+            "anxiety": 2,
+            "seat": 80,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 51,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 6,
+            "anxiety": 3,
+            "seat": 9,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 52,
+            "bravery": 4,
+            "distress": 5,
+            "fear": 9,
+            "anxiety": 7,
+            "seat": 48,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 53,
+            "bravery": 8,
+            "distress": 4,
+            "fear": 8,
+            "anxiety": 4,
+            "seat": 5,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 54,
+            "bravery": 2,
+            "distress": 2,
+            "fear": 8,
+            "anxiety": 7,
+            "seat": 28,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 55,
+            "bravery": 6,
+            "distress": 8,
+            "fear": 8,
+            "anxiety": 9,
+            "seat": 24,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 56,
+            "bravery": 9,
+            "distress": 1,
+            "fear": 1,
+            "anxiety": 6,
+            "seat": 54,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 57,
+            "bravery": 6,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 4,
+            "seat": 79,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 58,
+            "bravery": 5,
+            "distress": 4,
+            "fear": 2,
+            "anxiety": 9,
+            "seat": 19,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 59,
+            "bravery": 6,
+            "distress": 4,
+            "fear": 6,
+            "anxiety": 4,
+            "seat": 73,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 60,
+            "bravery": 5,
+            "distress": 6,
+            "fear": 4,
+            "anxiety": 1,
+            "seat": 98,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 61,
+            "bravery": 7,
+            "distress": 2,
+            "fear": 7,
+            "anxiety": 7,
+            "seat": 63,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 62,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 8,
+            "anxiety": 8,
+            "seat": 14,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 63,
+            "bravery": 4,
+            "distress": 3,
+            "fear": 3,
+            "anxiety": 5,
+            "seat": 11,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 64,
+            "bravery": 4,
+            "distress": 4,
+            "fear": 9,
+            "anxiety": 6,
+            "seat": 99,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 65,
+            "bravery": 6,
+            "distress": 7,
+            "fear": 5,
+            "anxiety": 7,
+            "seat": 91,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 66,
+            "bravery": 3,
+            "distress": 3,
+            "fear": 3,
+            "anxiety": 6,
+            "seat": 94,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 67,
+            "bravery": 8,
+            "distress": 8,
+            "fear": 1,
+            "anxiety": 4,
+            "seat": 74,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 68,
+            "bravery": 3,
+            "distress": 8,
+            "fear": 7,
+            "anxiety": 5,
+            "seat": 61,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 69,
+            "bravery": 4,
+            "distress": 1,
+            "fear": 7,
+            "anxiety": 1,
+            "seat": 13,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 70,
+            "bravery": 3,
+            "distress": 8,
+            "fear": 6,
+            "anxiety": 6,
+            "seat": 78,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 71,
+            "bravery": 9,
+            "distress": 7,
+            "fear": 2,
+            "anxiety": 3,
+            "seat": 2,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 72,
+            "bravery": 8,
+            "distress": 1,
+            "fear": 8,
+            "anxiety": 9,
+            "seat": 72,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 73,
+            "bravery": 1,
+            "distress": 2,
+            "fear": 2,
+            "anxiety": 2,
+            "seat": 32,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 74,
+            "bravery": 1,
+            "distress": 9,
+            "fear": 6,
+            "anxiety": 8,
+            "seat": 25,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 75,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 4,
+            "anxiety": 7,
+            "seat": 43,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 76,
+            "bravery": 8,
+            "distress": 7,
+            "fear": 7,
+            "anxiety": 9,
+            "seat": 10,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 77,
+            "bravery": 2,
+            "distress": 3,
+            "fear": 1,
+            "anxiety": 1,
+            "seat": 47,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 78,
+            "bravery": 9,
+            "distress": 9,
+            "fear": 5,
+            "anxiety": 1,
+            "seat": 4,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 79,
+            "bravery": 5,
+            "distress": 9,
+            "fear": 2,
+            "anxiety": 2,
+            "seat": 64,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 80,
+            "bravery": 3,
+            "distress": 7,
+            "fear": 6,
+            "anxiety": 6,
+            "seat": 7,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 81,
+            "bravery": 6,
+            "distress": 8,
+            "fear": 7,
+            "anxiety": 6,
+            "seat": 31,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 82,
+            "bravery": 1,
+            "distress": 2,
+            "fear": 9,
+            "anxiety": 9,
+            "seat": 29,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 83,
+            "bravery": 2,
+            "distress": 5,
+            "fear": 4,
+            "anxiety": 9,
+            "seat": 42,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 84,
+            "bravery": 9,
+            "distress": 2,
+            "fear": 1,
+            "anxiety": 5,
+            "seat": 81,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 85,
+            "bravery": 3,
+            "distress": 2,
+            "fear": 4,
+            "anxiety": 8,
+            "seat": 59,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 86,
+            "bravery": 6,
+            "distress": 8,
+            "fear": 9,
+            "anxiety": 4,
+            "seat": 56,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 87,
+            "bravery": 8,
+            "distress": 1,
+            "fear": 1,
+            "anxiety": 1,
+            "seat": 34,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 88,
+            "bravery": 6,
+            "distress": 1,
+            "fear": 7,
+            "anxiety": 7,
+            "seat": 44,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 89,
+            "bravery": 5,
+            "distress": 2,
+            "fear": 5,
+            "anxiety": 2,
+            "seat": 87,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 90,
+            "bravery": 3,
+            "distress": 2,
+            "fear": 7,
+            "anxiety": 8,
+            "seat": 18,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 91,
+            "bravery": 2,
+            "distress": 9,
+            "fear": 8,
+            "anxiety": 8,
+            "seat": 17,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 92,
+            "bravery": 9,
+            "distress": 6,
+            "fear": 6,
+            "anxiety": 7,
+            "seat": 16,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 93,
+            "bravery": 1,
+            "distress": 7,
+            "fear": 3,
+            "anxiety": 6,
+            "seat": 58,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 94,
+            "bravery": 9,
+            "distress": 6,
+            "fear": 8,
+            "anxiety": 9,
+            "seat": 36,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 95,
+            "bravery": 4,
+            "distress": 9,
+            "fear": 6,
+            "anxiety": 7,
+            "seat": 75,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 96,
+            "bravery": 8,
+            "distress": 3,
+            "fear": 5,
+            "anxiety": 1,
+            "seat": 22,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 97,
+            "bravery": 1,
+            "distress": 1,
+            "fear": 5,
+            "anxiety": 7,
+            "seat": 33,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 98,
+            "bravery": 7,
+            "distress": 7,
+            "fear": 1,
+            "anxiety": 6,
+            "seat": 60,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "id": 99,
+            "bravery": 1,
+            "distress": 6,
+            "fear": 6,
+            "anxiety": 8,
+            "seat": 86,
+            "spawnPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}
